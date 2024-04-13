@@ -13,7 +13,7 @@ import static metodos_calculadora.Metodos.*;
 public class PruebaGithub {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        saludar();
         System.out.println("Suma 1 y 2: " + suma(1,2));
         System.out.println("Resta 1 y 2: "+resta(1, 2));
         System.out.println("Multiplica 2 y 2: "+multiplicacion(2, 2));

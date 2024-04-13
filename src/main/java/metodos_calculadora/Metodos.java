@@ -26,6 +26,9 @@ public class Metodos{
             throw new ArithmeticException("dividir por cero no es posible");
         }
     }
+    public static void saludar(){
+        System.out.println("Bienvenidos a mi repositorio en Github, FUNCIONA!!!!!!!!!!");
+    }
     
     
 }
